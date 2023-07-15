@@ -4,5 +4,6 @@
 ![Simple Creature](simple_creature.png)
 
 2. Basic creature
+![Basic creature](basiccreature.png)
 
 
