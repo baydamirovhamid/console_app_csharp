@@ -6,6 +6,8 @@
 2.Basic creature
 ![Basic Creature](basiccreature.png)
 
+3. Average score
+
 17. Array 
 
 
