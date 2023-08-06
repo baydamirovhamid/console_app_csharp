@@ -24,6 +24,8 @@
 
 11. Odd Numbers
 
+12. Swapping Number
+
 17. Array 
 
 
