@@ -20,6 +20,8 @@
 
 9. Factorial
 
+10. Ternary Operator
+
 17. Array 
 
 
