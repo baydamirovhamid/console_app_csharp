@@ -10,29 +10,33 @@
 
 4. Temperature (Celcius To Fahrenheit)
 
-5. Parse 
+5. Conversion
 
-6. Calculation 1
+. Parse 
 
-7. Calculation 2
+. Calculation 1
 
-8. Operators
+. Arithmetic task
 
-9. Calculation 3
+. Condition If-Else 
 
-10. Calculate Even Product
+. Arithmetic Operators
 
-11. Factorial
+. Condition Switch-Case
 
-12. Ternary Operator
+. Calculate Even Product
 
-13. Odd Numbers
+. Factorial
 
-14. Swapping Number
+. Ternary Operator
 
-15. Student System
+. Odd Numbers
 
-16. Array 
+. Swapping Number
+
+. Student System
+
+. Array 
 
 
 
