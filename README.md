@@ -6,7 +6,7 @@
 2.Basic creature
 ![Basic Creature](basiccreature.png)
 
-3. Average score
+3. Parse 
 
 17. Array 
 
