@@ -22,6 +22,8 @@
 
 10. Ternary Operator
 
+11. Odd Numbers
+
 17. Array 
 
 
