@@ -18,6 +18,8 @@
 
 8. Calculate Even Product
 
+9. Factorial
+
 17. Array 
 
 
