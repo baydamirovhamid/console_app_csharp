@@ -14,6 +14,8 @@
 
 6. Operators
 
+7. Calculation 3
+
 17. Array 
 
 
