@@ -12,6 +12,8 @@
 
 5. Calculation 2
 
+6. Operators
+
 17. Array 
 
 
