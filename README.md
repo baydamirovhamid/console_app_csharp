@@ -12,31 +12,31 @@
 
 5. Conversion Task
 
-. Parse 
+6. Parse 
 
-. Calculation 1
+7. Calculation 1
 
-. Arithmetic task
+8. Arithmetic task
 
-. Condition If-Else 
+9. Condition If-Else 
 
-. Arithmetic Operators
+10. Arithmetic Operators
 
-. Condition Switch-Case
+11. Condition Switch-Case
 
-. Calculate Even Product
+12. Calculate Even Product
 
-. Factorial
+13. Factorial
 
-. Ternary Operator
+14. Ternary Operator
 
-. Odd Numbers
+15. Odd Numbers
 
-. Swapping Number
+16. Swapping Number
 
-. Student System
+17. Student System
 
-. Array 
+18. Array 
 
 
 
