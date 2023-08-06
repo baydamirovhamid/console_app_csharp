@@ -32,11 +32,13 @@
 
 15. Odd Numbers
 
-16. Swapping Number
+16. Reverse Function 
 
-17. Student System
+17. Swapping Number
 
-18. Array 
+18. Student System
+
+19. Array 
 
 
 
