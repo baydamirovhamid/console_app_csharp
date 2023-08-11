@@ -47,6 +47,7 @@
 22. Max_Min Value Array
 
 23. String Operators
+![String Operators](String_Operators.png)
 
 
 
