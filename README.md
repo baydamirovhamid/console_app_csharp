@@ -42,5 +42,9 @@
 
 20. 2*2 array
 
+21. Average Array
+
+
+
 
 
