@@ -44,6 +44,8 @@
 
 21. Average Array
 
+22. Max_Min Value Array
+
 
 
 
