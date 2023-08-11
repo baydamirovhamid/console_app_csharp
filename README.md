@@ -49,6 +49,8 @@
 23. String Operators
 ![String Operators](String_Operators.png)
 
+24. Find the second largest number in Array
+![Find the Second Max Number in Array](thesecondlargest_number.png)
 
 
 
