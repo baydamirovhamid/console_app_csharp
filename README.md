@@ -52,6 +52,9 @@
 24. Find the second largest number in Array
 ![Find the Second Max Number in Array](thesecondlargest_number.png)
 
+25. Prime Numbers
+![Prime Numbers](prime_numbers.png)
+
 
 
 
