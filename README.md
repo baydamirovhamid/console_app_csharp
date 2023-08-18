@@ -55,6 +55,9 @@
 25. Prime Numbers
 ![Prime Numbers](prime_numbers.png)
 
+26. Basic Class
+![Basic Class](class_task.png)
+
 
 
 
