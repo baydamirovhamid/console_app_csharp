@@ -58,6 +58,8 @@
 26. Basic Class
 ![Basic Class](class_task.png)
 
+27. Personal Information
+![Personal Info](personal_info.png)
 
 
 
