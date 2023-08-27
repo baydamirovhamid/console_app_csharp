@@ -27,7 +27,6 @@ namespace Polymorphism
             {
                 Console.WriteLine(s.Swim);
             }
-
         }
     }
 }

@@ -20,7 +20,6 @@ namespace Polymorphism
             Console.WriteLine("Generic sounds of animal");
         }
 
-
         public class Lion : Animal
         {
             public Lion(string Name) : base(Name)
