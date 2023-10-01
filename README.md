@@ -65,3 +65,6 @@
 
 29. Library Polymorphism
 ![Library Info](LibraryInfo.png)
+
+30. Library Management
+![Management](management.png)
