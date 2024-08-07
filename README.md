@@ -1,10 +1,10 @@
 # console_app_csharp
 
-1. Simple creature
-![Simple Creature](simple_creature.png)
+1. Holmes creature
+![Holmes Creature](simple_creature.png)
 
-2.Holmes creature
-![Basic Creature](basiccreature.png)
+2.Simple Creature
+![Simple Creature](basiccreature.png)
 
 3. Average Score
 
